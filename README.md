@@ -22,7 +22,7 @@
  <div> 
   <a href="https://www.youtube.com/channel/UC_9SeJaG7zalUCosUt8BnFA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gustavogoncalves743/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://wa.me/qr/ZKWYO3EM47DEJ1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<!--  <a href="https://wa.me/qr/ZKWYO3EM47DEJ1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  -->
   <a href = "mailto:gustavogdiasneves21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-gon%C3%A7alves-dias-neves-3b76b3252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://dev-playerg4.web.app/"><img src="https://img.shields.io/badge/Projects-blue?style=for-the-badge&logo=appveyor" target="_blank"></a>
